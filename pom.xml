@@ -288,7 +288,7 @@
                     </plugins>
                 </configuration>
             </plugin>
-            <!-- not security related -->
+            <!-- not security related
             <plugin>
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>findbugs-maven-plugin</artifactId>
@@ -303,6 +303,7 @@
                     </reportSet>
                 </reportSets>
             </plugin>
+            -->
         </plugins>
     </reporting>
 </project>
